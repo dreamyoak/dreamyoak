@@ -12,7 +12,9 @@
 - 📫 How to reach me **dynasty#3624**
 
 - ⚡ Fun fact **im the best**
-
+  
+  
+<img src="https://discord.c99.nl/widget/theme-5/822132948769177620.png"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/822132948769177620" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="822132948769177620" height="30" width="40" /></a>
