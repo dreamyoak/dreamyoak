@@ -25,5 +25,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=j0taro&show_icons=true&theme=transparent&locale=en" alt="j0taro" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=j0taro&show_icons=true&theme=dark&locale=en" alt="j0taro" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=j0taro&theme=dark&locale=en" alt="j0taro" /></p>
 
