@@ -3,13 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j0taro&label=Profile%20views&color=0e75b6&style=flat" alt="j0taro" /> </p>
 
-- 🔭 I’m currently working on **nothing**
-
 - 🌱 I’m currently learning **python, golang**
-
-- 👯 I’m looking to collaborate on **nothing**
-
-- 🤝 I’m looking for help with **nothing**
 
 - 👨‍💻 All of my projects are available at [github](github)
 
