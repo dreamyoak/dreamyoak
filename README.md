@@ -7,7 +7,7 @@
   
 - 🌱 I’m currently learning **python, golang**
 
-- 👨‍💻 All of my projects are available at [github](github)
+- 👨‍💻 All of my projects are available at [github](https://github.com/j0taro?tab=repositories)
 
 - 📫 How to reach me **dynasty#3624**
 
