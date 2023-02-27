@@ -14,10 +14,10 @@
 - ⚡ Fun fact **im the best**
   
   
-<img src="https://discord.c99.nl/widget/theme-1/822132948769177620.png"/>
+<img src="https://discord.c99.nl/widget/theme-1/1007661460572356628.png"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.com/users/822132948769177620" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="822132948769177620" height="30" width="40" /></a>
+<a href="https://discord.com/users/1007661460572356628" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1007661460572356628" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
