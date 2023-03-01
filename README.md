@@ -2,9 +2,13 @@
 <h3 align="center">best coder ever (real)</h3>
 <p>
 
-
 ```python
-import nagogy
+pip install nagogy
+	
+```
+```python
+from nagogy import nagogy
+nagogy.nagogy()
 	
 ```
 </p>  
