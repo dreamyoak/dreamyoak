@@ -4,9 +4,7 @@
 
 
 ```python
-@chillmode
-print("help")
-> help
+import nagogy
 	
 ```
 </p>  
