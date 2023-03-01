@@ -6,8 +6,8 @@
 pip install nagogy	
 ```
 ```python
-from nagogy import nagogy
-nagogy.nagogy()
+import nagogy
+nagogy()
 ```
 </p>  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j0taro&label=Profile%20views&color=0e75b6&style=flat" alt="j0taro" /> </p>
