@@ -4,14 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j0taro&label=Profile%20views&color=0e75b6&style=flat" alt="j0taro" /> </p>
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total&Forks&color=0e75b6&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/j0taro" alt="Profile Forks"></a>
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=0e75b6&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/j0taro" alt="Profile Stars"></a>  
-  
-- 🌱 I’m currently learning **python, golang, html**
-
-- 👨‍💻 All of my projects are available at [github](https://github.com/j0taro?tab=repositories)
-
-- 📫 How to reach me **dynasty#3624**
-
-- ⚡ Fun fact **im the best**
+```python
+import nagogy
+nagogy.print("frr")
+```
   
   
 <img src="https://discord.c99.nl/widget/theme-1/1007661460572356628.png"/>
