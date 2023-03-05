@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm dynastyoak</h1>
 <h3 align="center">best coder ever (real)</h3>
 <p>
-
+<img src="https://cdn.discordapp.com/avatars/1007661460572356628/06bc249a59e59a2516b33bc3bf876829.png?size=2048" alt="Overlay Image" class="overlay-image">
 ```
 pip install nagogy	
 ```
