@@ -16,7 +16,7 @@ import nagogy
 <p align="left">
 <a href="https://discord.com/users/1007661460572356628" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1007661460572356628" height="30" width="40" /></a>
 </p>
-<p align="center">
+<p align="left">
   <img src="https://discord.c99.nl/widget/theme-4/1007661460572356628.png" width = "280" height = "60"> 
 </p>
 <h3 align="left">Languages and Tools:</h3>
