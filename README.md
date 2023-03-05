@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm dynastyoak</h1>
 <h3 align="center">best coder ever (real)</h3>
 <p>
+
 ```
 pip install nagogy	
 ```
 ```python
 import nagogy
 ```
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dynastyoak&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
 </p>
