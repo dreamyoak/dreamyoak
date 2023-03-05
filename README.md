@@ -12,12 +12,6 @@ import nagogy
   <img src="https://komarev.com/ghpvc/?username=dynastyoak&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/dynastyoak/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dynastyoak/" alt="LinkedIn"></a>
-  <a href="https://discord.gg/123456789" target="_blank"><img src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=Discord&logoColor=white&link=https://discord.gg/123456789" alt="Discord"></a>
-  <a href="https://www.instagram.com/dynastyoak/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-ff69b4?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/dynastyoak/" alt="Instagram"></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
