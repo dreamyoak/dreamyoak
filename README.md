@@ -31,7 +31,9 @@ import nagogy
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dynastyoak&layout=compact&theme=dark" alt="Top Languages">
 </p>
-
+<p align="center">
+  <img src="https://discord.c99.nl/widget/theme-4/1007661460572356628.png" width = "280" height = "60"> 
+</p>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dynastyoak&show_icons=true&theme=dark" alt="GitHub Stats">
 </p>
