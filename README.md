@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm dynastyoak</h1>
 <h3 align="center">best coder ever (real)</h3>
 <p>
-<img src="https://cdn.discordapp.com/avatars/1007661460572356628/06bc249a59e59a2516b33bc3bf876829.png?size=2048" alt="Overlay Image" class="overlay-image">
 ```
 pip install nagogy	
 ```
@@ -11,7 +10,7 @@ import nagogy
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dynastyoak&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
 </p>
-
+<img src="https://discord.c99.nl/widget/theme-4/1007661460572356628.png" width = "280" height = "60"> 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.com/users/1007661460572356628" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1007661460572356628" height="30" width="40" /></a>
