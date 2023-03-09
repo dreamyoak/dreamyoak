@@ -24,11 +24,11 @@ import nagogy
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img style="-webkit-filter: drop-shadow(0 0 10px #E44D26); filter: drop-shadow(0 0 10px #E44D26);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img style="-webkit-filter: drop-shadow(0 0 10px #256FAA); filter: drop-shadow(0 0 10px #256FAA);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  <img style="-webkit-filter: drop-shadow(0 0 10px #F0DB4F); filter: drop-shadow(0 0 10px #F0DB4F);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img style="-webkit-filter: drop-shadow(0 0 10px #83CD29); filter: drop-shadow(0 0 10px #83CD29);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  <img style="-webkit-filter: drop-shadow(0 0 10px #FFDE57); filter: drop-shadow(0 0 10px #FFDE57);" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </p>
 
 <p align="center">
