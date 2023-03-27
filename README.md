@@ -2,13 +2,6 @@
 <h3 align="center">best coder ever (real)</h3>
 <p>
 
-```
-pip install nagogy	
-```
-```python
-import nagogy
-```
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dynastyoak&label=Profile%20views&color=0e75b6&style=flat" alt="dynastyoak" />
   <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=0e75b6&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/dynastyoak" alt="Profile Forks">
