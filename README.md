@@ -5,8 +5,8 @@
 
 <section>
   <h3>Connect with me:</h3>
-  <div align="center">
-    <a align="left" href="https://discord.com/users/1007661460572356628" target="blank">
+  <div align="left">
+    <a href="https://discord.com/users/1007661460572356628" target="blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord icon" height="30" width="40" />
     </a>
   </div>
@@ -27,10 +27,10 @@
 </section>
 
 <section>
-  <div>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dynastyoak&layout=compact&theme=dark" alt="Top Languages">
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dynastyoak&layout=compact&theme=dark" alt="Top Languages">
   </div>
-  <div>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=dynastyoak&show_icons=true&theme=dark" alt="GitHub Stats">
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=dynastyoak&show_icons=true&theme=dark" alt="GitHub Stats">
   </div>
 </section>
