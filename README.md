@@ -6,7 +6,7 @@
 <section>
   <h3>Connect with me:</h3>
   <div align="center">
-    <a href="https://discord.com/users/1007661460572356628" target="blank">
+    <a align="left" href="https://discord.com/users/1007661460572356628" target="blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord icon" height="30" width="40" />
     </a>
   </div>
