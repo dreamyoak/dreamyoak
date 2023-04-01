@@ -30,23 +30,3 @@
     <img src="https://github-readme-stats.vercel.app/api?username=dynastyoak&show_icons=true&theme=dark" alt="GitHub Stats" style="margin-top: 2rem;">
   </div>
 </section>
-<style>
-  body {
-    background-color: #1c1c1c;
-    color: #e1e1e1;
-    font-family: sans-serif;
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-  }
-  section {
-    margin-top: 3rem;
-    text-align: center;
-  }
-  h3 {
-    margin-bottom: 1rem;
-  }
-  img {
-    margin: 1rem;
-  }
-</style>
