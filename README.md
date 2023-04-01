@@ -1,6 +1,7 @@
 <header>
   <h1>Hi 👋, I'm dynastyoak</h1>
   <h3>Best Coder Ever (real)</h3>
+  <h3>Main lang: c++ idc</h3>
 </header>
 <section>
   <h3 style="font-size: 2rem;">Connect with me:</h3>
