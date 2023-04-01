@@ -1,8 +1,7 @@
 <header>
   <h1>Hi 👋, I'm dynastyoak</h1>
-  <h3>best coder ever (real)</h3>
+  <h3>Best Coder Ever (real)</h3>
 </header>
-
 <section>
   <h3>Connect with me:</h3>
   <div align="left">
@@ -14,7 +13,6 @@
     <img src="https://discord.c99.nl/widget/theme-4/1007661460572356628.png" alt="Discord widget" width="280" height="60"> 
   </div>
 </section>
-
 <section>
   <h3>Languages and Tools:</h3>
   <div align="center">
@@ -23,9 +21,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript icon" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js icon" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python icon" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++ icon" width="40" height="40"/>
   </div>
 </section>
-
 <section>
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dynastyoak&layout=compact&theme=dark" alt="Top Languages">
