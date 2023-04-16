@@ -14,8 +14,7 @@ public:
     };
 
     std::vector<std::string> tools = {"Visual Studio Code", "Neovim", "Sublime"};
-};
-```
+};```
 </header>
 <section>
   <h3 style="font-size: 2rem;">Connect with me:</h3>
