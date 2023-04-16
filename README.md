@@ -1,5 +1,5 @@
 <header>
- ```C++
+ ```c++
 class DreamyOak {
 public:
     std::string bio = "Best Coder (real)";
