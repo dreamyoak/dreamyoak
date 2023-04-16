@@ -1,5 +1,21 @@
 <header>
+<header>
+```c++
+class DreamyOak {
+public:
+    std::string bio = "Best Coder (real)";
+    int age = 16;
+    std::string telegram = "@dreamyoak";
+    std::string discord = "DreamyOak#2493";
+    std::map<std::string, std::vector<std::string>> skills = {
+        {"expert", {"C++"}},
+        {"intermediate", {"JavaScript", "Python"}},
+        {"learning", {"go"}}
+    };
 
+    std::vector<std::string> tools = {"Visual Studio Code", "Neovim", "Sublime"};
+};
+```
 </header>
 <section>
   <h3 style="font-size: 2rem;">Connect with me:</h3>
