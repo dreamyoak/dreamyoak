@@ -1,15 +1,15 @@
 <header>
- ```c++
+```c++
 class DreamyOak {
 public:
     std::string bio = "Best Coder (real)";
     int age = 16;
     std::string telegram = "@dreamyoak";
     std::string discord = "DreamyOak#2493";
-    std::map<std::string, std::string> skills = {
+    std::map<std::string, std::vector<std::string>> skills = {
         {"expert", {"C++"}},
         {"intermediate", {"JavaScript", "Python"}},
-        {"learning", {"go"}},
+        {"learning", {"go"}}
     };
 
     std::vector<std::string> tools = {"Visual Studio Code", "Neovim", "Sublime"};
