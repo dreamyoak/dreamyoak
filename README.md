@@ -10,7 +10,7 @@ public:
     std::map<std::string, std::vector<std::string>> skills = {
         {"expert", {"C++"}},
         {"intermediate", {"JavaScript", "Python"}},
-        {"learning", {"go"}}
+        {"learning", {"Go", "Rust"}}
     };
     std::string OS = "nt10";
     std::vector<std::string> tools = {
