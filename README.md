@@ -20,12 +20,6 @@ public:
     };
 };
 ```
-
-<section align="left">
-  <div style="margin-top: 2rem; display: flex; justify-content: center;">
-    <img src="https://discord.c99.nl/widget/theme-4/1007661460572356628.png" alt="Discord widget" width="280" height="60"> 
-  </div>
-</section>
 <section align="center">
   <h1>⠀</h1>
   <div style="margin-top: 3rem; display: flex; flex-direction: column; align-items: center;">
