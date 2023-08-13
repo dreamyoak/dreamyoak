@@ -14,7 +14,7 @@
 <a href="https://github.com/dreamyoak"><img alt="dreamyoak's Github Stats"
     src="https://github-readme-stats.vercel.app/api?username=dreamyoak&show_icons=true&count_private=true&theme=react&bg_color=151515" /></a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thespeedx&theme=black-ice"
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dreamyoak&theme=black-ice"
     alt="dreamyoak" /></p>
 
 <br />
