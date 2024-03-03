@@ -2,7 +2,8 @@
 ```c++
 class DreamyOak {
 public:
-  std::string bio = "Best Coder (real)"; std::string main_lang = "C++";
+  std::string bio = "Best Coder (real)";
+  std::string main_lang = "C++";
   int age = 17;
   std::string telegram = "@dreamyoak";
   std::string discord = "dreamyoak";
